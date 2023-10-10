@@ -3,7 +3,7 @@ A JavaScript Counter days tool developed to help people count their worked days 
 
 ## Try the application here
 
-Try Days Counter clicking [here](https://gabrielmxavier.github.io/DaysCounter/).
+Try Days Counter clicking [here](https://lushodelboom.github.io/Contador/).
 
 ## Why this Tool
 
@@ -11,8 +11,8 @@ This Tool was created for people who works on Vessels to count their worked days
 
 ## Project overview
 
-![Project Overiew 1](https://github.com/gabrielmxavier/DaysCounter/blob/master/img/Screen-shot-1.jpg)
-![Project Overiew 2](https://github.com/gabrielmxavier/DaysCounter/blob/master/img/Screen-shot-2.jpg)
+![Project Overiew 1](https://github.com/lushodelboom/contador/blob/master/img/Screen-shot-1.jpg)
+![Project Overiew 2](https://github.com/lushodelboom/contador/blob/master/img/Screen-shot-2.jpg)
 
 ## How this project was built !
 
