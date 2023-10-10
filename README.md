@@ -9,10 +9,10 @@ Try Days Counter clicking [here](https://lushodelboom.github.io/Contador/).
 
 This Tool was created for people who works on Vessels to count their worked days, that's why in the interval of 1 day between 2 dates was set to 2 days counted and not just 1.
 
-## Project overview
+## Project overview 
 
-![Project Overiew 1](https://github.com/lushodelboom/contador/blob/master/img/Screen-shot-1.jpg)
-![Project Overiew 2](https://github.com/lushodelboom/contador/blob/master/img/Screen-shot-2.jpg)
+![Project Overiew 1](https://github.com/lushodelboom/contador/blob/main/img/Screen-shot-1.jpg)
+![Project Overiew 2](https://github.com/lushodelboom/contador/blob/main/img/Screen-shot-2.jpg)
 
 ## How this project was built !
 
